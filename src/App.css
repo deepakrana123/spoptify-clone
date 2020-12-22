@@ -1,0 +1,14 @@
+*{
+  margin:0px;
+  padding:0px;
+
+}
+body{
+  
+  overflow:hidden;
+}
+
+.app_body{
+  display:flex;
+  height:100vh;
+}
